@@ -10,10 +10,10 @@ Given some file containing a matrix i.e.
 etc
 
 Displays the number of processes and resource types.
-Displays the Allocation Matrix
-Displays the Max Matrix
-Displays the Need Matrix
-Displays the Available Cector
-Determines whether the system is in a safe state
-Displays the Request Vector
-And whether the request can be granted or not and what the Available Vector is
+Displays the Allocation Matrix.
+Displays the Max Matrix.
+Displays the Need Matrix.
+Displays the Available Vector.
+Determines whether the system is in a safe state.
+Displays the Request Vector.
+And whether the request can be granted or not and what the Available Vector is.
